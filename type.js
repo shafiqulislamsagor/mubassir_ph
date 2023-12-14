@@ -6,3 +6,6 @@ sum =  parseFloat(sum)
 
 console.log(sum);
 console.log(typeof(sum));
+
+var remainder = 119 % 5 ; 
+console.log(remainder);
