@@ -122,3 +122,15 @@ else if(num3 >= num2 && num3 >= num1){
     largest = num3
 }
 console.log(largest);
+
+var fnum = 9;
+var mnum = 8;
+var lnum = 9;
+
+
+if(fnum == mnum || fnum == lnum){
+    console.log('triangle is Isosceles');
+}
+else{
+    console.log('triangle is not Isosceles');
+}
