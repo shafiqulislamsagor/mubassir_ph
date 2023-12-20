@@ -21,3 +21,4 @@ function singara(money){
 var Taka = 1520;
 var countSingara = singara(Taka);
 console.log('Eating singaras: ',countSingara);
+console.log('Eating singaras: ',countSingara);
