@@ -16,3 +16,5 @@
  * ::ALWAYS::
  * jodi lage sob sikhe fela sathe...
  */
+console.log('Same to same')
+console.log('add ki hoi nai naki')
