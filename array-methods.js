@@ -1,0 +1,22 @@
+const fruits = ["Banana","Orange","Apple","Mango"];
+console.log(fruits.length);
+let join = fruits.join(" % ");
+console.log(join);
+let tostring = fruits.toString();
+console.log(tostring);
+let push = fruits.push("Kiwi");
+console.log(push);
+console.log(fruits);
+let popping = fruits.pop();
+console.log(popping);
+console.log(fruits);
+let shift = fruits.shift();
+console.log(shift);
+console.log(fruits);
+let unshift = fruits.unshift("Bananas");
+console.log(unshift);
+console.log(fruits);
+fruits[fruits.length] = 'fruits';
+console.log(fruits)
+let deleted = delete fruits[4];
+console.log(fruits);
