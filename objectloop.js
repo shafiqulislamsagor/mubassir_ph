@@ -6,6 +6,7 @@ var shoppingCart = {
     pen:25,
     shoes:2
 }
+console.log('hudai respons korlam ar ki kisu mone koro na')
 
 console.log(shoppingCart['book'])
 
