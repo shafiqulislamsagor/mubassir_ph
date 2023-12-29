@@ -4,6 +4,8 @@ for(var i = 0 ; i < numbers.length ; i++){
     var number = numbers[i];
     console.log(number)
 }
+console.log("ami hudai post korlam");
+console.log('aj k oriantation class hobe');
 
 var items = ['book', 'pen', 'headphn', 'phn', 'mic', 'mouse'];
 
