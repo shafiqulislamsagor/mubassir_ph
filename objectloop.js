@@ -15,6 +15,8 @@ console.log(keys);
 
 const values = Object.values(shoppingCart);
 console.log(values);
+console.log('Aj theke course srt');
+
 
 
 for (var i = 0; i < keys.length; i++){
